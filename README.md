@@ -1,6 +1,8 @@
-# Intro-to-Robot-Intelligence-Project-6
+# Intro to Robot Intelligence Project 6 
+
 ## Author：
 Chang Liu cl5706
+
 Haosheng Wang sw2514
 
 ## Project Discription:
