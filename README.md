@@ -5,7 +5,7 @@ Chang Liu cl5706
 
 Haosheng Wang sw2514
 
-## Project Discription:
+## Project Description:
 Implement a rover that can shoot the ball into gate. Where in the video, the red barrier is the "gate", and the rover will keep pushing the ball near the barrier.
 
 ## Algorithm:
